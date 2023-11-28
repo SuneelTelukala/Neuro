@@ -1,0 +1,25 @@
+#nan{
+    display: grid;
+    grid-template-columns: 2fr 9fr;
+
+}
+#div1{
+    background-color: cornflowerblue;
+    height:100vh;
+}
+#w{
+    width: 100px;
+    height: 35px;
+}
+#selt{
+    width: 100px;
+    margin-top: 16px;
+    height: 35px;
+}
+#div2{
+    margin-left: 800px;
+}
+#mr{
+     margin-top: 75px;
+     
+}
